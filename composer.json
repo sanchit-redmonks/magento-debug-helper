@@ -2,7 +2,7 @@
   "name": "shkoliar/magento-debug-helper",
   "description": "Magento 2 Debug Helper module",
   "require": {
-    "magento/framework": "~100.1.0|~101.0.0|~102.0.0"
+    "magento/framework": "*"
   },
   "type": "magento2-module",
   "license": [
